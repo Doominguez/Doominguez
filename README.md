@@ -1,34 +1,21 @@
 <div align="center">
 
-# 👋 Junior Domínguez Montero
+# Hola, soy Junior Domínguez 👋
 
-### ☕ Backend Java Developer | Spring Boot
+**Desarrollador Backend Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25" title="Java"/> enfocado en construir APIs robustas y escalables
 
-Desarrollador Backend enfocado en **Java y Spring Boot**, apasionado por crear **APIs REST, aplicaciones escalables y soluciones orientadas a buenas prácticas de desarrollo**.
-
-💻 Java • Spring Boot • Spring Security • JWT
-🗄️ MySQL • PostgreSQL
-🌐 Angular • TypeScript
-🛠️ Git • GitHub • Maven • Postman
-
-🇵🇪 Lima, Perú
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniordominguez/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://junior-dominguez-nine.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniordmontero2026@gmail.com)
 
 </div>
 
----
+<br>
 
-## 🚀 Sobre mí
 
-Soy desarrollador **Backend Java**, con experiencia construyendo aplicaciones web y APIs REST utilizando **Java, Spring Boot, Spring Security y JPA/Hibernate**.
-
-Me interesa seguir creciendo en **arquitectura de software, diseño de APIs, seguridad y desarrollo de aplicaciones escalables**.
-
-Actualmente estoy fortaleciendo mis conocimientos para desarrollarme profesionalmente como **Java Backend Developer**.
-
----
 
 <div align="center">
 
-### ⭐ Gracias por visitar mi perfil
+**¡Gracias por visitar mi perfil!** ⭐
 
 </div>
